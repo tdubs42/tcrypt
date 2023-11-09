@@ -1,0 +1,18 @@
+repo_name: tdubs42/tcrypt
+report_id: ef30293552b1d30e5cad3141b5c2c62b
+repo_type: Public
+timestamp: '2023-11-09T23:22:21+00:00'
+requested_by: tdubs42
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
